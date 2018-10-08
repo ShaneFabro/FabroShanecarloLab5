@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Activity 1</string>
+    <string name="app_name2">Activity 2</string>
+
+    <string name="Title">Manila City Hall</string>
+    <string name="Text1">Location:</string>
+    <string name="Text2">Distance:</string>
+    <string name="Location1">Padre Burgos Ave, Ermita, Manila, 1000 Metro Manila</string>
+    <string name="Distance1">1.7 km from University of Santo Tomas</string>
+
+    <string name="Title2">Mall of Asia</string>
+    <string name="Location2">Main Mall SM Central Business Park, SM Mall of Asia, Seaside Blvd, 123 MM, Pasay, 1300 Metro Manila</string>
+    <string name="Distance2">10.9 km from University of Santo Tomas</string>
+
+    <string name="Activity1">Activity 1</string>
+    <string name="Activity2">Activity 2</string>
+    <string name="Maps">Map</string>
+
+</resources>
